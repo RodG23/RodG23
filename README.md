@@ -42,6 +42,7 @@ My academic journey has led me to develop a deep passion for building secure, sc
 </picture>
 
 <br/>
+<br/>
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
