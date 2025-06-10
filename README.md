@@ -43,7 +43,10 @@ My academic journey has led me to develop a deep passion for building secure, sc
 
 <br/>
 
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/add) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodrigofegomes2003@gmail.com) 
