@@ -1,6 +1,6 @@
 # About Me:
-Hello World! My name is Rodrigo and I'm a Software Engineering graduate from University of Minho, currently pursuing my Master's degree in Software Engineering, specializing  in Distributed Systems and Cryptography & Information Security.
-My academic journey has led me to develop a deep passion for building secure, scalable systems and exploring the fascinating world of cryptographic protocols. I'm particularly interested in how distributed systems can be designed to maintain security, consistency, and performance at scale.
+Hello World! My name is Rodrigo and I'm a Software Engineering graduate from University of Minho, currently pursuing my Master's degree in Software Engineering, specializing in Distributed Systems and Cryptography & Information Security.
+My academic journey has led me to develop a deep passion for building secure, reliable and scalable systems and exploring the fascinating world of cryptographic protocols. I'm particularly interested in how systems can be designed to maintain security, consistency, and performance at scale. Always eager to tackle complex problems and deliver effective solutions, thriving in collaborative environments with strong teamwork skills.
 
 
 ## Tech Stack:
